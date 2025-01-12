@@ -12,7 +12,7 @@
 |389|LDAP|Lightweight Directory Access Protocol|X|X|
 |443|HTTPS|HTTP via SSL/TLS|X||
 |445|SMB|Server message block|X||
-|465|SMTPS|
+|465|SMTPS|SMTP via SSL/TLS|||
 |636|LDAPS|LDAP via SSL/TLS|X|X|
 |993|IMAPS|IMAP via SSL/TLS|X||
 |995|POP3S|POP3 via SSL/TLS|X||
