@@ -4,6 +4,7 @@
 |:--:|:--:|:--:|:--:|:--:|
 |22|SSH|Secure Shell niveau 7|X|X|
 |25|SMTP|Simple Mail Transfer Protocol|X||
+|53|DNS|Domain Name System||X|
 |67/68|DHCP|||X|
 |80|http|Hypertext Transfer Protocol lvl7|X||
 |110|POP3|Post Office Protocol v3|X||
