@@ -2,10 +2,10 @@
 
 |Numéro de port|Protocole|Description|TCP|UDP|
 |:--:|:--:|:--:|:--:|:--:|
+|22|SSH|Secure Shell niveau 7|X|X|
 |25|SMTP|Simple Mail Transfer Protocol|X||
-|22|SSH|Secure Shell (TCP) niveau 7
-|67/68|DHCP (UDP)
-|80| http|
+|67/68|DHCP|||X|
+|80|http|Hypertext Transfer Protocol lvl7|X||
 |110|POP3 |(TCP)
 |143|IMAP| (TCP)
 |389|LDAP| en TCP
