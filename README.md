@@ -5,7 +5,7 @@
 |22|SSH|Secure Shell niveau 7|X|X|
 |25|SMTP|Simple Mail Transfer Protocol|X||
 |53|DNS|Domain Name System||X|
-|67/68|DHCP|Dynamic Host configuration Protocol||X|
+|67(srv)/68(cli)|DHCP|Dynamic Host configuration Protocol||X|
 |80|http|Hypertext Transfer Protocol lvl7|X||
 |110|POP3|Post Office Protocol v3|X||
 |143|IMAP|Internet Message Access Protocol|X||
